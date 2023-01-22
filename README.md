@@ -192,6 +192,10 @@ temple.html
 
 ![out6](https://user-images.githubusercontent.com/119575445/213907177-06b5c9bb-daf7-4522-9321-96f7958baa52.png)
 
+# Validator:
+
+![Screenshot_20230122_025012](https://user-images.githubusercontent.com/119575445/213908706-54af3b7f-ac55-4c80-8210-3befd8663ba2.png)
+
 
 # Result:
 
